@@ -1,3 +1,14 @@
+> **CultureReset fork of [omacom/omarchy](https://github.com/omacom/omarchy).** Beautiful, Modern & Opinionated Linux.
+>
+> - **Why it is here:** Saved for reference.
+> - **Does anything run from it:** No.
+> - **Changes:** The default branch has no CultureReset commits; it is upstream as of the last sync.
+> - **License:** MIT, from upstream. For updates and issues, use [upstream](https://github.com/omacom/omarchy).
+>
+> The upstream README follows unchanged.
+
+---
+
 # Omarchy
 
 Omarchy is a beautiful, fun & agentic Linux distribution by DHH.
